@@ -1,0 +1,2 @@
+# cellular_automaton
+RのShinyでセルラーオートマトンを作ってみた
